@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<plantel>
+  <necesidad_infra>
+    <plantel>0</plantel>
+    <unidad>0</unidad>
+    <necesidad>0</necesidad>
+    <cantidad>0</cantidad>
+    <descripcion>0</descripcion>
+    <identificador>0</identificador>
+    <tipo>0</tipo>
+  </necesidad_infra>
+  <necesidad_infra>
+    <plantel>EB JOBALITO</plantel>
+    <unidad>AGUAS NEGRAS</unidad>
+    <necesidad>CONSTRUCCION</necesidad>
+    <cantidad>1</cantidad>
+    <descripcion>sin servicio</descripcion>
+    <identificador>4</identificador>
+    <tipo>7733HDHD</tipo>
+  </necesidad_infra>
+  <necesidad_infra>
+    <plantel>EB JOBALITO</plantel>
+    <unidad>AREA DE COCINA</unidad>
+    <necesidad>AMPLIACION</necesidad>
+    <cantidad>1</cantidad>
+    <descripcion>poco espacio</descripcion>
+    <identificador>5</identificador>
+    <tipo>7733HDHD</tipo>
+  </necesidad_infra>
+</plantel>

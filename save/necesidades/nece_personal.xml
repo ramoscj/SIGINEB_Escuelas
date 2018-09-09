@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<plantel>
+  <necesidad_personal>
+    <plantel>0</plantel>
+    <funcion>0</funcion>
+    <cantidad>0</cantidad>
+    <descripcion>0</descripcion>
+    <identificador>0</identificador>
+    <tipo>0</tipo>
+    <cod_est>0</cod_est>
+    <escogido>0</escogido>
+  </necesidad_personal>
+  <necesidad_personal>
+    <plantel>EB JOBALITO</plantel>
+    <funcion>DOCENTE EN AULA</funcion>
+    <cantidad>10</cantidad>
+    <descripcion>sin docentes</descripcion>
+    <identificador>19</identificador>
+    <tipo>2</tipo>
+    <cod_est>7733HDHD</cod_est>
+    <escogido>DOCENTE</escogido>
+  </necesidad_personal>
+  <necesidad_personal>
+    <plantel>EB JOBALITO</plantel>
+    <funcion>ASEADOR</funcion>
+    <cantidad>3</cantidad>
+    <descripcion>poco personal de limpieza</descripcion>
+    <identificador>33</identificador>
+    <tipo>1</tipo>
+    <cod_est>7733HDHD</cod_est>
+    <escogido>OBRERO</escogido>
+  </necesidad_personal>
+</plantel>

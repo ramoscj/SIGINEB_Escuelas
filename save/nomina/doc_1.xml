@@ -1,0 +1,378 @@
+<?xml version="1.0" encoding="utf-8"?>
+<nomina>
+  <recurso>
+    <cedula>5786561</cedula>
+    <nombre_apellido>VALERO F LISVET</nombre_apellido>
+    <desc_dependencia>EB JOBALITO</desc_dependencia>
+    <cod_depen>6590276</cod_depen>
+    <cod_cargo>2127DI</cod_cargo>
+    <desc_cargo>TSU EN EDUCACION </desc_cargo>
+    <dependencia>0</dependencia>
+    <funcion>0</funcion>
+    <otra_funcion>0</otra_funcion>
+    <telefono>0</telefono>
+    <correo>0</correo>
+    <labora_plant>0</labora_plant>
+    <donde_labora>0</donde_labora>
+    <matricula_m>0</matricula_m>
+    <matricula_f>0</matricula_f>
+    <sexo>0</sexo>
+    <grado>0</grado>
+    <seccion>0</seccion>
+    <fcha_ingplant>0</fcha_ingplant>
+    <nivel_instru>0</nivel_instru>
+    <estudia>0</estudia>
+    <detalle_estudio>0</detalle_estudio>
+    <nivel_select>0</nivel_select>
+  </recurso>
+  <recurso>
+    <cedula>7981415</cedula>
+    <nombre_apellido>PEREZ SILVA LUZ E</nombre_apellido>
+    <desc_dependencia>EB JOBALITO</desc_dependencia>
+    <cod_depen>6590276</cod_depen>
+    <cod_cargo>1126DI</cod_cargo>
+    <desc_cargo>DOC. VI/AULA </desc_cargo>
+    <dependencia>NACIONAL</dependencia>
+    <funcion>DIRECTOR</funcion>
+    <otra_funcion>COORD PEDAGOGICO</otra_funcion>
+    <telefono>0426-8888888</telefono>
+    <correo>probando@gmail.com</correo>
+    <labora_plant>SI</labora_plant>
+    <donde_labora>EB JOBALITO</donde_labora>
+    <matricula_m>120</matricula_m>
+    <matricula_f>120</matricula_f>
+    <sexo>FEMENINO</sexo>
+    <grado>1Â°</grado>
+    <seccion>A</seccion>
+    <fcha_ingplant>11/02/2015</fcha_ingplant>
+    <nivel_instru>7</nivel_instru>
+    <estudia>NO</estudia>
+    <detalle_estudio>NO ESTUDIO</detalle_estudio>
+    <nivel_select>POSTGRADO MAESTRIA</nivel_select>
+  </recurso>
+  <recurso>
+    <cedula>9235622</cedula>
+    <nombre_apellido>MENDOZA NELIDA </nombre_apellido>
+    <desc_dependencia>EB JOBALITO</desc_dependencia>
+    <cod_depen>6590276</cod_depen>
+    <cod_cargo>1124DI</cod_cargo>
+    <desc_cargo>DOC. IV/AULA </desc_cargo>
+    <dependencia>NACIONAL</dependencia>
+    <funcion>LABORA EN OTRA INSTITUCION</funcion>
+    <otra_funcion>0</otra_funcion>
+    <telefono>1111-1111111</telefono>
+    <correo>probando@gmail.com</correo>
+    <labora_plant>NO</labora_plant>
+    <donde_labora>E.B. LOS MANGOS</donde_labora>
+    <matricula_m>0</matricula_m>
+    <matricula_f>0</matricula_f>
+    <sexo>FEMENINO</sexo>
+    <grado>0</grado>
+    <seccion>0</seccion>
+    <fcha_ingplant>0</fcha_ingplant>
+    <nivel_instru>0</nivel_instru>
+    <estudia>0</estudia>
+    <detalle_estudio>0</detalle_estudio>
+    <nivel_select>0</nivel_select>
+  </recurso>
+  <recurso>
+    <cedula>9369283</cedula>
+    <nombre_apellido>TUTA DE C GLENIS Y </nombre_apellido>
+    <desc_dependencia>EB JOBALITO</desc_dependencia>
+    <cod_depen>6590276</cod_depen>
+    <cod_cargo>1124DI</cod_cargo>
+    <desc_cargo>DOC. IV/AULA </desc_cargo>
+    <dependencia>NACIONAL</dependencia>
+    <funcion>LABORA EN OTRA INSTITUCION</funcion>
+    <otra_funcion>0</otra_funcion>
+    <telefono>2222-2222222</telefono>
+    <correo>probando@gmail.com</correo>
+    <labora_plant>NO</labora_plant>
+    <donde_labora>E.B. BARINAS</donde_labora>
+    <matricula_m>0</matricula_m>
+    <matricula_f>0</matricula_f>
+    <sexo>FEMENINO</sexo>
+    <grado>0</grado>
+    <seccion>0</seccion>
+    <fcha_ingplant>0</fcha_ingplant>
+    <nivel_instru>0</nivel_instru>
+    <estudia>0</estudia>
+    <detalle_estudio>0</detalle_estudio>
+    <nivel_select>0</nivel_select>
+  </recurso>
+  <recurso>
+    <cedula>9387962</cedula>
+    <nombre_apellido>CABEZAS C PILIS C</nombre_apellido>
+    <desc_dependencia>EB JOBALITO</desc_dependencia>
+    <cod_depen>6590276</cod_depen>
+    <cod_cargo>1726WI</cod_cargo>
+    <desc_cargo>DOC. VI/SUB-DIRE </desc_cargo>
+    <dependencia>NACIONAL</dependencia>
+    <funcion>COOR. P.A.E.</funcion>
+    <otra_funcion>0</otra_funcion>
+    <telefono>2222-2222222</telefono>
+    <correo>probando@gmai.com</correo>
+    <labora_plant>SI</labora_plant>
+    <donde_labora>EB JOBALITO</donde_labora>
+    <matricula_m>60</matricula_m>
+    <matricula_f>60</matricula_f>
+    <sexo>FEMENINO</sexo>
+    <grado>5Â°</grado>
+    <seccion>B</seccion>
+    <fcha_ingplant>10/02/2015</fcha_ingplant>
+    <nivel_instru>5</nivel_instru>
+    <estudia>NO</estudia>
+    <detalle_estudio>0</detalle_estudio>
+    <nivel_select>LICENCIADO</nivel_select>
+  </recurso>
+  <recurso>
+    <cedula>11709177</cedula>
+    <nombre_apellido>ROSARIO T SONIA C</nombre_apellido>
+    <desc_dependencia>EB JOBALITO</desc_dependencia>
+    <cod_depen>6590276</cod_depen>
+    <cod_cargo>2127DI</cod_cargo>
+    <desc_cargo>TSU EN EDUCACION </desc_cargo>
+    <dependencia>NACIONAL</dependencia>
+    <funcion>DOCENTE EN AULA</funcion>
+    <otra_funcion>0</otra_funcion>
+    <telefono>3333-3333333</telefono>
+    <correo>probando@gmail.com</correo>
+    <labora_plant>SI</labora_plant>
+    <donde_labora>EB JOBALITO</donde_labora>
+    <matricula_m>10</matricula_m>
+    <matricula_f>12</matricula_f>
+    <sexo>FEMENINO</sexo>
+    <grado>1Â°</grado>
+    <seccion>A</seccion>
+    <fcha_ingplant>26/02/2015</fcha_ingplant>
+    <nivel_instru>5</nivel_instru>
+    <estudia>NO</estudia>
+    <detalle_estudio>0</detalle_estudio>
+    <nivel_select>LICENCIADO</nivel_select>
+  </recurso>
+  <recurso>
+    <cedula>11711704</cedula>
+    <nombre_apellido>MENDOZA NURIS B</nombre_apellido>
+    <desc_dependencia>EB JOBALITO</desc_dependencia>
+    <cod_depen>6590276</cod_depen>
+    <cod_cargo>1124DI</cod_cargo>
+    <desc_cargo>DOC. IV/AULA </desc_cargo>
+    <dependencia>NACIONAL</dependencia>
+    <funcion>DOC. ED. FISICA</funcion>
+    <otra_funcion>0</otra_funcion>
+    <telefono>1111-1111111</telefono>
+    <correo>probando@gmail.com</correo>
+    <labora_plant>SI</labora_plant>
+    <donde_labora>EB JOBALITO</donde_labora>
+    <matricula_m>10</matricula_m>
+    <matricula_f>15</matricula_f>
+    <sexo>FEMENINO</sexo>
+    <grado>4Â°</grado>
+    <seccion>C</seccion>
+    <fcha_ingplant>15/06/2010</fcha_ingplant>
+    <nivel_instru>5</nivel_instru>
+    <estudia>SI</estudia>
+    <detalle_estudio>estudiando postgrado</detalle_estudio>
+    <nivel_select>LICENCIADO</nivel_select>
+  </recurso>
+  <recurso>
+    <cedula>12204255</cedula>
+    <nombre_apellido>CONTRERAS YAMILEX</nombre_apellido>
+    <desc_dependencia>EB JOBALITO</desc_dependencia>
+    <cod_depen>6590276</cod_depen>
+    <cod_cargo>1123DI</cod_cargo>
+    <desc_cargo>DOC. III /AULA </desc_cargo>
+    <dependencia>NACIONAL</dependencia>
+    <funcion>DOCENTE EN AULA</funcion>
+    <otra_funcion>0</otra_funcion>
+    <telefono>2222-2222222</telefono>
+    <correo>probando@gmail.com</correo>
+    <labora_plant>SI</labora_plant>
+    <donde_labora>EB JOBALITO</donde_labora>
+    <matricula_m>10</matricula_m>
+    <matricula_f>24</matricula_f>
+    <sexo>FEMENINO</sexo>
+    <grado>2Â°</grado>
+    <seccion>B</seccion>
+    <fcha_ingplant>20/02/2015</fcha_ingplant>
+    <nivel_instru>6</nivel_instru>
+    <estudia>NO</estudia>
+    <detalle_estudio>0</detalle_estudio>
+    <nivel_select>POSTGRADO ESPECIALIDAD</nivel_select>
+  </recurso>
+  <recurso>
+    <cedula>12205783</cedula>
+    <nombre_apellido>GONZALEZ A JORGEN J</nombre_apellido>
+    <desc_dependencia>EB JOBALITO</desc_dependencia>
+    <cod_depen>6590276</cod_depen>
+    <cod_cargo>1123DI</cod_cargo>
+    <desc_cargo>DOC. III /AULA </desc_cargo>
+    <dependencia>NACIONAL</dependencia>
+    <funcion>DOC. ED. MUSICA</funcion>
+    <otra_funcion>0</otra_funcion>
+    <telefono>1111-1111111</telefono>
+    <correo>probando@gmail.com</correo>
+    <labora_plant>SI</labora_plant>
+    <donde_labora>EB JOBALITO</donde_labora>
+    <matricula_m>19</matricula_m>
+    <matricula_f>20</matricula_f>
+    <sexo>MASCULINO</sexo>
+    <grado>6Â°</grado>
+    <seccion>C</seccion>
+    <fcha_ingplant>06/02/2015</fcha_ingplant>
+    <nivel_instru>5</nivel_instru>
+    <estudia>SI</estudia>
+    <detalle_estudio>estudiando especialidad</detalle_estudio>
+    <nivel_select>LICENCIADO</nivel_select>
+  </recurso>
+  <recurso>
+    <cedula>13278140</cedula>
+    <nombre_apellido>RIVEROS MARGARITA</nombre_apellido>
+    <desc_dependencia>EB JOBALITO</desc_dependencia>
+    <cod_depen>6590276</cod_depen>
+    <cod_cargo>1124DI</cod_cargo>
+    <desc_cargo>DOC. IV/AULA </desc_cargo>
+    <dependencia>NACIONAL</dependencia>
+    <funcion>PROCESO DE JUBILACION</funcion>
+    <otra_funcion>0</otra_funcion>
+    <telefono>3333-3333333</telefono>
+    <correo>probando@gmail.com</correo>
+    <labora_plant>SI</labora_plant>
+    <donde_labora>EB JOBALITO</donde_labora>
+    <matricula_m>0</matricula_m>
+    <matricula_f>0</matricula_f>
+    <sexo>FEMENINO</sexo>
+    <grado>0</grado>
+    <seccion>0</seccion>
+    <fcha_ingplant>04/02/2015</fcha_ingplant>
+    <nivel_instru>5</nivel_instru>
+    <estudia>NO</estudia>
+    <detalle_estudio>0</detalle_estudio>
+    <nivel_select>LICENCIADO</nivel_select>
+  </recurso>
+  <recurso>
+    <cedula>13591631</cedula>
+    <nombre_apellido>TERAN JUDITH </nombre_apellido>
+    <desc_dependencia>EB JOBALITO</desc_dependencia>
+    <cod_depen>6590276</cod_depen>
+    <cod_cargo>1124DI</cod_cargo>
+    <desc_cargo>DOC. IV/AULA </desc_cargo>
+    <dependencia>NACIONAL</dependencia>
+    <funcion>DOC. BIBLIOTECARIO</funcion>
+    <otra_funcion>0</otra_funcion>
+    <telefono>2222-2222222</telefono>
+    <correo>probando@gmail.com</correo>
+    <labora_plant>SI</labora_plant>
+    <donde_labora>EB JOBALITO</donde_labora>
+    <matricula_m>0</matricula_m>
+    <matricula_f>0</matricula_f>
+    <sexo>FEMENINO</sexo>
+    <grado>0</grado>
+    <seccion>0</seccion>
+    <fcha_ingplant>03/02/2015</fcha_ingplant>
+    <nivel_instru>2</nivel_instru>
+    <estudia>NO</estudia>
+    <detalle_estudio>0</detalle_estudio>
+    <nivel_select>BACHILLER</nivel_select>
+  </recurso>
+  <recurso>
+    <cedula>14814539</cedula>
+    <nombre_apellido>ROJAS M. YOLEIDA E.</nombre_apellido>
+    <desc_dependencia>EB JOBALITO</desc_dependencia>
+    <cod_depen>6590276</cod_depen>
+    <cod_cargo>1123DI</cod_cargo>
+    <desc_cargo>DOC. III /AULA </desc_cargo>
+    <dependencia>NACIONAL</dependencia>
+    <funcion>DOCENTE EN AULA</funcion>
+    <otra_funcion>0</otra_funcion>
+    <telefono>4444-4444444</telefono>
+    <correo>probando@gmail.com</correo>
+    <labora_plant>SI</labora_plant>
+    <donde_labora>EB JOBALITO</donde_labora>
+    <matricula_m>12</matricula_m>
+    <matricula_f>7</matricula_f>
+    <sexo>FEMENINO</sexo>
+    <grado>3Â°</grado>
+    <seccion>C</seccion>
+    <fcha_ingplant>04/02/2015</fcha_ingplant>
+    <nivel_instru>5</nivel_instru>
+    <estudia>SI</estudia>
+    <detalle_estudio>culminando postgrado</detalle_estudio>
+    <nivel_select>LICENCIADO</nivel_select>
+  </recurso>
+  <recurso>
+    <cedula>16515965</cedula>
+    <nombre_apellido>BOVES CARLOS </nombre_apellido>
+    <desc_dependencia>EB JOBALITO</desc_dependencia>
+    <cod_depen>6590276</cod_depen>
+    <cod_cargo>1123DI</cod_cargo>
+    <desc_cargo>DOC. III /AULA </desc_cargo>
+    <dependencia>NACIONAL</dependencia>
+    <funcion>COORD. DEL PLANTEL</funcion>
+    <otra_funcion>0</otra_funcion>
+    <telefono>2222-2222222</telefono>
+    <correo>probando@gmail.com</correo>
+    <labora_plant>SI</labora_plant>
+    <donde_labora>EB JOBALITO</donde_labora>
+    <matricula_m>0</matricula_m>
+    <matricula_f>0</matricula_f>
+    <sexo>MASCULINO</sexo>
+    <grado>6Â°</grado>
+    <seccion>D</seccion>
+    <fcha_ingplant>06/01/2015</fcha_ingplant>
+    <nivel_instru>7</nivel_instru>
+    <estudia>NO</estudia>
+    <detalle_estudio>0</detalle_estudio>
+    <nivel_select>POSTGRADO MAESTRIA</nivel_select>
+  </recurso>
+  <recurso>
+    <cedula>16634459</cedula>
+    <nombre_apellido>MONTILLA PE/A HENRRY </nombre_apellido>
+    <desc_dependencia>EB JOBALITO</desc_dependencia>
+    <cod_depen>6590276</cod_depen>
+    <cod_cargo>1123DI</cod_cargo>
+    <desc_cargo>DOC. III /AULA </desc_cargo>
+    <dependencia>NACIONAL</dependencia>
+    <funcion>DOCENTE EN AULA</funcion>
+    <otra_funcion>0</otra_funcion>
+    <telefono>2222-2222222</telefono>
+    <correo>probando</correo>
+    <labora_plant>SI</labora_plant>
+    <donde_labora>EB JOBALITO</donde_labora>
+    <matricula_m>4</matricula_m>
+    <matricula_f>5</matricula_f>
+    <sexo>MASCULINO</sexo>
+    <grado>4Â°</grado>
+    <seccion>B</seccion>
+    <fcha_ingplant>05/02/2015</fcha_ingplant>
+    <nivel_instru>5</nivel_instru>
+    <estudia>SI</estudia>
+    <detalle_estudio>culminando postgrado</detalle_estudio>
+    <nivel_select>LICENCIADO</nivel_select>
+  </recurso>
+  <recurso>
+    <cedula>16636840</cedula>
+    <nombre_apellido>RIVAS R.FRANKLIN R.</nombre_apellido>
+    <desc_dependencia>EB JOBALITO</desc_dependencia>
+    <cod_depen>6590276</cod_depen>
+    <cod_cargo>1123DI</cod_cargo>
+    <desc_cargo>DOC. III /AULA </desc_cargo>
+    <dependencia>NACIONAL</dependencia>
+    <funcion>DOCENTE EN AULA</funcion>
+    <otra_funcion>0</otra_funcion>
+    <telefono>3333-3333333</telefono>
+    <correo>probando@gmail.com</correo>
+    <labora_plant>SI</labora_plant>
+    <donde_labora>EB JOBALITO</donde_labora>
+    <matricula_m>12</matricula_m>
+    <matricula_f>15</matricula_f>
+    <sexo>MASCULINO</sexo>
+    <grado>5Â°</grado>
+    <seccion>B</seccion>
+    <fcha_ingplant>05/02/2015</fcha_ingplant>
+    <nivel_instru>5</nivel_instru>
+    <estudia>NO</estudia>
+    <detalle_estudio>0</detalle_estudio>
+    <nivel_select>LICENCIADO</nivel_select>
+  </recurso>
+</nomina>

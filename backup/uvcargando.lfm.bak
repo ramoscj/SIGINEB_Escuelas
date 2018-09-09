@@ -1,0 +1,48 @@
+object vcargando: Tvcargando
+  Left = 495
+  Height = 122
+  Top = 269
+  Width = 204
+  BorderStyle = bsNone
+  Caption = 'Cargando...'
+  ClientHeight = 122
+  ClientWidth = 204
+  Color = clMenuHighlight
+  Position = poScreenCenter
+  LCLVersion = '1.2.4.0'
+  object lblproceso: TLabel
+    Left = 8
+    Height = 20
+    Top = 24
+    Width = 187
+    Alignment = taCenter
+    Caption = 'Por Favor Espere Mientras '
+    Font.Color = clCaptionText
+    Font.Height = -15
+    Font.Style = [fsBold]
+    ParentColor = False
+    ParentFont = False
+  end
+  object barra: TProgressBar
+    Left = 8
+    Height = 24
+    Top = 80
+    Width = 187
+    Max = 5000
+    Style = pbstMarquee
+    TabOrder = 0
+  end
+  object lblestado: TLabel
+    Left = 24
+    Height = 20
+    Top = 48
+    Width = 150
+    Alignment = taCenter
+    Caption = 'Se Cargan los Datos...'
+    Font.Color = clCaptionText
+    Font.Height = -15
+    Font.Style = [fsBold]
+    ParentColor = False
+    ParentFont = False
+  end
+end

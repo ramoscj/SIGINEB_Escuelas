@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<nomina>
+  <recurso>
+    <cedula>9989324</cedula>
+    <nombre_apellido>ANGARITA OJEDA MIGDALIA</nombre_apellido>
+    <desc_dependencia>EB JOBALITO</desc_dependencia>
+    <cod_depen>6590276</cod_depen>
+    <cod_cargo>100000</cod_cargo>
+    <desc_cargo>BACHILLER I</desc_cargo>
+    <dependencia>0</dependencia>
+    <funcion>0</funcion>
+    <otra_funcion>0</otra_funcion>
+    <telefono>0</telefono>
+    <correo>0</correo>
+    <labora_plant>0</labora_plant>
+    <donde_labora>0</donde_labora>
+    <matricula_m>0</matricula_m>
+    <matricula_f>0</matricula_f>
+    <sexo>0</sexo>
+    <grado>0</grado>
+    <seccion>0</seccion>
+    <fcha_ingplant>0</fcha_ingplant>
+    <nivel_instru>0</nivel_instru>
+    <estudia>0</estudia>
+    <detalle_estudio>0</detalle_estudio>
+    <nivel_select>0</nivel_select>
+  </recurso>
+  <recurso>
+    <cedula>10558956</cedula>
+    <nombre_apellido>SANTANA MARBELLA </nombre_apellido>
+    <desc_dependencia>EB JOBALITO</desc_dependencia>
+    <cod_depen>6590276</cod_depen>
+    <cod_cargo>8030N </cod_cargo>
+    <desc_cargo>ASEADOR</desc_cargo>
+    <dependencia>NACIONAL</dependencia>
+    <funcion>ASEADOR</funcion>
+    <otra_funcion>0</otra_funcion>
+    <telefono>2222-2222222</telefono>
+    <correo>probando@gmail.com</correo>
+    <labora_plant>SI</labora_plant>
+    <donde_labora>EB JOBALITO</donde_labora>
+    <matricula_m>0</matricula_m>
+    <matricula_f>0</matricula_f>
+    <sexo>FEMENINO</sexo>
+    <grado>0</grado>
+    <seccion>0</seccion>
+    <fcha_ingplant>05/02/2015</fcha_ingplant>
+    <nivel_instru>2</nivel_instru>
+    <estudia>NO</estudia>
+    <detalle_estudio>0</detalle_estudio>
+    <nivel_select>BACHILLER</nivel_select>
+  </recurso>
+  <recurso>
+    <cedula>11708562</cedula>
+    <nombre_apellido>VASQUEZ CAMEJO RAMON JOEL</nombre_apellido>
+    <desc_dependencia>EB JOBALITO</desc_dependencia>
+    <cod_depen>6590276</cod_depen>
+    <cod_cargo>8030N </cod_cargo>
+    <desc_cargo>ASEADOR</desc_cargo>
+    <dependencia>NACIONAL</dependencia>
+    <funcion>ASEADOR</funcion>
+    <otra_funcion>0</otra_funcion>
+    <telefono>2222-2222222</telefono>
+    <correo>probando@gmail.com</correo>
+    <labora_plant>SI</labora_plant>
+    <donde_labora>EB JOBALITO</donde_labora>
+    <matricula_m>0</matricula_m>
+    <matricula_f>0</matricula_f>
+    <sexo>MASCULINO</sexo>
+    <grado>0</grado>
+    <seccion>0</seccion>
+    <fcha_ingplant>05/02/2015</fcha_ingplant>
+    <nivel_instru>1</nivel_instru>
+    <estudia>NO</estudia>
+    <detalle_estudio>0</detalle_estudio>
+    <nivel_select>PRIMARIA</nivel_select>
+  </recurso>
+</nomina>

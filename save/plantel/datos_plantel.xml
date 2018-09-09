@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<plantel>
+  <datos_plantel>
+    <plantel>0</plantel>
+    <ner>0</ner>
+    <municipio>0</municipio>
+    <dependencia>0</dependencia>
+    <des_cdep>0</des_cdep>
+    <tipo>0</tipo>
+    <cod_adm>0</cod_adm>
+    <cod_dea>0</cod_dea>
+    <cod_est>0</cod_est>
+    <telefono>0</telefono>
+    <correo>0</correo>
+    <horario>0</horario>
+    <parroquia>0</parroquia>
+    <direccion>0</direccion>
+    <ubic_geograf>0</ubic_geograf>
+    <longitud>0</longitud>
+    <latitud>0</latitud>
+    <resena>0</resena>
+    <act_soce>0</act_soce>
+    <act_socp>0</act_socp>
+    <infraestructura>0</infraestructura>
+    <tenencia>0</tenencia>
+    <medidas_terreno>0</medidas_terreno>
+    <plantel_constr>0</plantel_constr>
+    <n_aulas>0</n_aulas>
+    <n_banos>0</n_banos>
+    <n_oficina>0</n_oficina>
+    <area_cocina>0</area_cocina>
+    <cancha_dep>0</cancha_dep>
+    <bilioteca>0</bilioteca>
+    <comedor>0</comedor>
+    <cerca_perime>0</cerca_perime>
+    <sala_compu>0</sala_compu>
+    <n_pisos>0</n_pisos>
+    <agua_blanca>0</agua_blanca>
+    <agua_negra>0</agua_negra>
+    <feha_hinte>0</feha_hinte>
+  </datos_plantel>
+  <datos_plantel>
+    <plantel>EB JOBALITO</plantel>
+    <ner>NO</ner>
+    <municipio>ANDRES ELOY BLANCO</municipio>
+    <dependencia>NACIONAL</dependencia>
+    <des_cdep>EB JOBALITO</des_cdep>
+    <tipo>UNITRARIA</tipo>
+    <cod_adm>6590276</cod_adm>
+    <cod_dea>JDF7JHDJHDS</cod_dea>
+    <cod_est>7733HDHD</cod_est>
+    <telefono>0273-5461234</telefono>
+    <correo>jobalito@hotmail.com</correo>
+    <horario>8:00 A 6:00</horario>
+    <parroquia>ANDRES ELOY BLANCO</parroquia>
+    <direccion>BARRIO EL PROGRASO AL LADO DEL TERMINAL</direccion>
+    <ubic_geograf>URBANA</ubic_geograf>
+    <longitud>638Âº</longitud>
+    <latitud>872Âº</latitud>
+    <resena>RESEÃ‘A DEL PLANTEL JOBALITO</resena>
+    <act_soce>ACTIVIDAD</act_soce>
+    <act_socp>ACTIVIDAD</act_socp>
+    <infraestructura>PLANTEL COMPLETO</infraestructura>
+    <tenencia>PROPIA</tenencia>
+    <medidas_terreno>254</medidas_terreno>
+    <plantel_constr>NO</plantel_constr>
+    <n_aulas>30</n_aulas>
+    <n_banos>6</n_banos>
+    <n_oficina>2</n_oficina>
+    <area_cocina>SI</area_cocina>
+    <cancha_dep>1</cancha_dep>
+    <bilioteca>1</bilioteca>
+    <comedor>1</comedor>
+    <cerca_perime>SI</cerca_perime>
+    <sala_compu>1</sala_compu>
+    <n_pisos>1</n_pisos>
+    <agua_blanca>SI</agua_blanca>
+    <agua_negra>SI</agua_negra>
+    <feha_hinte>0</feha_hinte>
+  </datos_plantel>
+</plantel>

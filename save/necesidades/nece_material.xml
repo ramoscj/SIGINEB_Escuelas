@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<plantel>
+  <necesidad_material>
+    <plantel>0</plantel>
+    <necesidad>0</necesidad>
+    <descripcion>0</descripcion>
+    <identificador>0</identificador>
+    <cod_est>0</cod_est>
+  </necesidad_material>
+  <necesidad_material>
+    <plantel>EB JOBALITO</plantel>
+    <necesidad>ARTICULOS DEPORTIVOS</necesidad>
+    <descripcion>BALONES</descripcion>
+    <identificador>8</identificador>
+    <cod_est>7733HDHD</cod_est>
+  </necesidad_material>
+  <necesidad_material>
+    <plantel>EB JOBALITO</plantel>
+    <necesidad>ARTICULOS DE LIMPIEZA</necesidad>
+    <descripcion>JABON EN POLVO</descripcion>
+    <identificador>7</identificador>
+    <cod_est>7733HDHD</cod_est>
+  </necesidad_material>
+</plantel>

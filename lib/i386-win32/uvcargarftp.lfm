@@ -1,0 +1,82 @@
+object vcargaftp: Tvcargaftp
+  Left = 496
+  Height = 178
+  Top = 304
+  Width = 270
+  BorderStyle = bsNone
+  Caption = 'vcargaftp'
+  ClientHeight = 178
+  ClientWidth = 270
+  Color = clSkyBlue
+  Position = poScreenCenter
+  LCLVersion = '1.2.4.0'
+  object lblestado: TLabel
+    Left = 60
+    Height = 20
+    Top = 48
+    Width = 150
+    Alignment = taCenter
+    Caption = 'Se Cargan los Datos...'
+    Font.Color = clCaptionText
+    Font.Height = -15
+    Font.Style = [fsBold]
+    ParentColor = False
+    ParentFont = False
+  end
+  object lblproceso: TLabel
+    Left = 42
+    Height = 20
+    Top = 24
+    Width = 187
+    Alignment = taCenter
+    Caption = 'Por Favor Espere Mientras '
+    Font.Color = clCaptionText
+    Font.Height = -15
+    Font.Style = [fsBold]
+    ParentColor = False
+    ParentFont = False
+  end
+  object barra: TProgressBar
+    Left = 8
+    Height = 24
+    Top = 80
+    Width = 256
+    TabOrder = 0
+  end
+  object lblpeso: TLabel
+    Left = 152
+    Height = 15
+    Top = 120
+    Width = 70
+    Caption = '--------------'
+    ParentColor = False
+  end
+  object lblpeso1: TLabel
+    Left = 32
+    Height = 15
+    Top = 120
+    Width = 95
+    Caption = 'Peso del Archivo:'
+    Font.Style = [fsBold]
+    ParentColor = False
+    ParentFont = False
+  end
+  object lblprogres: TLabel
+    Left = 73
+    Height = 15
+    Top = 152
+    Width = 53
+    Caption = 'Progreso:'
+    Font.Style = [fsBold]
+    ParentColor = False
+    ParentFont = False
+  end
+  object lblprogres2: TLabel
+    Left = 152
+    Height = 15
+    Top = 152
+    Width = 70
+    Caption = '--------------'
+    ParentColor = False
+  end
+end

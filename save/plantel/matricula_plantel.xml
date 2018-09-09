@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<plantel>
+  <matricula_plantel>
+    <plantel>NO APLICA</plantel>
+    <grado>NO APLICA</grado>
+    <seccion>NO APLICA</seccion>
+    <matricula_m>NO APLICA</matricula_m>
+    <matricula_f>NO APLICA</matricula_f>
+    <turno>NO APLICA</turno>
+    <nivel>NO APLICA</nivel>
+    <cod_est>NO APLICA</cod_est>
+  </matricula_plantel>
+  <matricula_plantel>
+    <plantel>EB JOBALITO</plantel>
+    <grado>1</grado>
+    <seccion>A</seccion>
+    <matricula_m>15</matricula_m>
+    <matricula_f>13</matricula_f>
+    <turno>MAÃ‘ANA</turno>
+    <nivel>PRIMARIA</nivel>
+    <cod_est>7733HDHD</cod_est>
+  </matricula_plantel>
+  <matricula_plantel>
+    <plantel>EB JOBALITO</plantel>
+    <grado>2</grado>
+    <seccion>A</seccion>
+    <matricula_m>17</matricula_m>
+    <matricula_f>16</matricula_f>
+    <turno>MAÃ‘ANA</turno>
+    <nivel>PRIMARIA</nivel>
+    <cod_est>7733HDHD</cod_est>
+  </matricula_plantel>
+</plantel>

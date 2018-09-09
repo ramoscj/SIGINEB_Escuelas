@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectOptions>
+    <Version Value="9"/>
+    <PathDelim Value="\"/>
+    <General>
+      <SessionStorage Value="InProjectDir"/>
+      <MainUnit Value="0"/>
+      <Title Value="index"/>
+      <ResourceType Value="res"/>
+      <UseXPManifest Value="True"/>
+      <Icon Value="0"/>
+    </General>
+    <i18n>
+      <EnableI18N LFM="False"/>
+    </i18n>
+    <VersionInfo>
+      <StringTable ProductVersion=""/>
+    </VersionInfo>
+    <BuildModes Count="1">
+      <Item1 Name="Default" Default="True"/>
+    </BuildModes>
+    <PublishOptions>
+      <Version Value="2"/>
+    </PublishOptions>
+    <RunParams>
+      <local>
+        <FormatVersion Value="1"/>
+      </local>
+    </RunParams>
+    <RequiredPackages Count="4">
+      <Item1>
+        <PackageName Value="lazreportpdfexport"/>
+      </Item1>
+      <Item2>
+        <PackageName Value="lazreport"/>
+      </Item2>
+      <Item3>
+        <PackageName Value="indylaz"/>
+      </Item3>
+      <Item4>
+        <PackageName Value="LCL"/>
+      </Item4>
+    </RequiredPackages>
+    <Units Count="10">
+      <Unit0>
+        <Filename Value="index.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="index"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="vindex.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="uvindex"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="vindex"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="uvprincipal.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="vprincipal"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="uvprincipal"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="uvdatosplantel.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="vdatosplantel"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="uvdatosplantel"/>
+      </Unit3>
+      <Unit4>
+        <Filename Value="uvnecesidades.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="vnecesidades"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="uvnecesidades"/>
+      </Unit4>
+      <Unit5>
+        <Filename Value="uvcargando.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="vcargando"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="uvcargando"/>
+      </Unit5>
+      <Unit6>
+        <Filename Value="uvppp.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="vppp"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="uvppp"/>
+      </Unit6>
+      <Unit7>
+        <Filename Value="uvftp.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="vftp"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="uvftp"/>
+      </Unit7>
+      <Unit8>
+        <Filename Value="uvcargarftp.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="vcargaftp"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="uvcargarftp"/>
+      </Unit8>
+      <Unit9>
+        <Filename Value="uvconstancia.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="vconstancia"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="uvconstancia"/>
+      </Unit9>
+    </Units>
+  </ProjectOptions>
+  <CompilerOptions>
+    <Version Value="11"/>
+    <PathDelim Value="\"/>
+    <Target>
+      <Filename Value="index"/>
+    </Target>
+    <SearchPaths>
+      <IncludeFiles Value="$(ProjOutDir)"/>
+      <OtherUnitFiles Value="..\..\..\..\Downloads\librerias\indy-10.2.0.3\indy\fpc"/>
+      <UnitOutputDirectory Value="lib\$(TargetCPU)-$(TargetOS)"/>
+    </SearchPaths>
+    <Linking>
+      <Options>
+        <Win32>
+          <GraphicApplication Value="True"/>
+        </Win32>
+      </Options>
+    </Linking>
+    <Other>
+      <CompilerMessages>
+        <MsgFileName Value=""/>
+      </CompilerMessages>
+      <CompilerPath Value="$(CompPath)"/>
+    </Other>
+  </CompilerOptions>
+  <Debugging>
+    <Exceptions Count="21">
+      <Item1>
+        <Name Value="EAbort"/>
+      </Item1>
+      <Item2>
+        <Name Value="ECodetoolError"/>
+      </Item2>
+      <Item3>
+        <Name Value="EFOpenError"/>
+      </Item3>
+      <Item4>
+        <Name Value="EGridException"/>
+      </Item4>
+      <Item5>
+        <Name Value="EDOMError"/>
+      </Item5>
+      <Item6>
+        <Name Value="EFCreateError"/>
+      </Item6>
+      <Item7>
+        <Name Value="Exception"/>
+      </Item7>
+      <Item8>
+        <Name Value="EStringListError"/>
+      </Item8>
+      <Item9>
+        <Name Value="EIdAlreadyConnected"/>
+      </Item9>
+      <Item10>
+        <Name Value="EIdSocketError"/>
+      </Item10>
+      <Item11>
+        <Name Value="EIdNotConnected"/>
+      </Item11>
+      <Item12>
+        <Name Value="EIdConnClosedGracefully"/>
+      </Item12>
+      <Item13>
+        <Name Value="EReadError"/>
+      </Item13>
+      <Item14>
+        <Name Value="EIdFTPListParseError"/>
+      </Item14>
+      <Item15>
+        <Name Value="EIdReplyRFCError"/>
+      </Item15>
+      <Item16>
+        <Name Value="EIdFTPFileAlreadyExists"/>
+      </Item16>
+      <Item17>
+        <Name Value="EIdReadTimeout"/>
+      </Item17>
+      <Item18>
+        <Name Value="EInvalidOperation"/>
+      </Item18>
+      <Item19>
+        <Name Value="EConvertError"/>
+      </Item19>
+      <Item20>
+        <Name Value="EZipError"/>
+      </Item20>
+      <Item21>
+        <Name Value="EDBEditError"/>
+      </Item21>
+    </Exceptions>
+  </Debugging>
+</CONFIG>
